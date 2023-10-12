@@ -1,8 +1,10 @@
 version: 2023-09
-givenName: Alice
-familyName: Cryptography
+givenName: Klemen
+familyName: Zajc
 profilePhotoPath: img/profile.jpg
-bio: My super bio!
-address: Wonderland
+bio: Solidity developer
+address: Radovljica, Slovenia
 projects:
-  - https://github.com/alenhorvat/git-recognise
+  - https://github.com/bosonprotocol/boson-protocol-contracts
+  - https://github.com/bosonprotocol/BPIPs
+  - https://github.com/bosonprotocol/contracts
