@@ -1,0 +1,8 @@
+version: 2023-09
+givenName: Alice
+familyName: Cryptography
+profilePhotoPath: img/profile.jpg
+bio: My super bio!
+address: Wonderland
+projects:
+  - https://github.com/alenhorvat/git-recognise
